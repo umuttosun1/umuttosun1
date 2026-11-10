@@ -2,7 +2,7 @@
 
 # Umut Tosun
 
-**Full-stack Web Developer · Go · React · Next.js**
+**Software Engineer · Go · React · Next.js**
 
 [![Email](https://img.shields.io/badge/umut781@icloud.com-1F2937?style=for-the-badge&logo=icloud&logoColor=white)](mailto:umut781@icloud.com)
 ![Location](https://img.shields.io/badge/Ankara,%20Türkiye-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -11,7 +11,7 @@
 
 ### About me
 
-I'm a computer engineer focused on the web. I like owning a feature end to end: designing the database,
+I'm a computer engineer who likes owning a feature end to end: designing the database,
 writing the API and building the interface people actually use, then getting it deployed. Day to day I work
 with **Go** on the backend and **React / Next.js** with **TypeScript** on the frontend, on top of **PostgreSQL**.
 

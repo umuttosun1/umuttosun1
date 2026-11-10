@@ -2,7 +2,7 @@
 
 # Umut Tosun
 
-**Software Engineer · Go · React Native · Next.js**
+**Full-stack Web Developer · Go · React · Next.js**
 
 [![Email](https://img.shields.io/badge/umut781@icloud.com-1F2937?style=for-the-badge&logo=icloud&logoColor=white)](mailto:umut781@icloud.com)
 ![Location](https://img.shields.io/badge/Ankara,%20Türkiye-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -11,9 +11,9 @@
 
 ### About me
 
-I'm a computer engineer who enjoys owning a feature end to end: designing the database, writing the API,
-building the screens on web and mobile, and getting it deployed. Most of my day-to-day work is in **Go** on
-the backend and **React Native / Next.js** on the client side, with **PostgreSQL** underneath.
+I'm a computer engineer focused on the web. I like owning a feature end to end: designing the database,
+writing the API and building the interface people actually use, then getting it deployed. Day to day I work
+with **Go** on the backend and **React / Next.js** with **TypeScript** on the frontend, on top of **PostgreSQL**.
 
 ### What I work on
 
@@ -25,16 +25,16 @@ the backend and **React Native / Next.js** on the client side, with **PostgreSQL
       Keycloak / OAuth2 / JWT · scheduled jobs · S3, e-mail and push integrations · Excel/PDF reports · Swagger
     </td>
     <td width="50%" valign="top">
-      <b>Mobile</b><br>
-      React Native + Expo for iOS and Android · maps and location · push notifications ·
-      TanStack Query, Zustand, NativeWind · EAS builds and releases
+      <b>Frontend</b><br>
+      React and Next.js with TypeScript · Tailwind CSS · component libraries ·
+      state management (Redux, Zustand, TanStack Query) · i18n · responsive layouts
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>Web</b><br>
-      Next.js + TypeScript · Tailwind CSS · role-based dashboards, charts and drag-and-drop layouts ·
-      i18n · React and Redux
+      <b>Dashboards &amp; UI</b><br>
+      Admin panels with role-based screens · charts and reports · maps and calendars ·
+      rich-text editing · drag-and-drop layouts · real-time updates over WebSockets
     </td>
     <td width="50%" valign="top">
       <b>Infrastructure</b><br>
@@ -48,7 +48,7 @@ the backend and **React Native / Next.js** on the client side, with **PostgreSQL
 
 <p>
   <img src="https://skillicons.dev/icons?i=go,ts,js,java,py,postgres,redis,nodejs,spring,firebase,aws&perline=11" alt="Go, TypeScript, JavaScript, Java, Python, PostgreSQL, Redis, Node.js, Spring, Firebase, AWS" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,docker,githubactions,terraform,nginx,linux,git&perline=11" alt="React / React Native, Next.js, Tailwind CSS, Vite, Docker, GitHub Actions, Terraform, Nginx, Linux, Git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,docker,githubactions,terraform,nginx,linux,git&perline=11" alt="React, Next.js, Redux, Tailwind CSS, Vite, Docker, GitHub Actions, Terraform, Nginx, Linux, Git" />
 </p>
 
 ### Side projects
@@ -71,8 +71,3 @@ a self-contained Windows `.exe`.
 **Image Processing Lab** — my graduation project: a desktop app for trying 146 image-processing and
 data-augmentation algorithms interactively and reading the code behind each one.
 `Python` `OpenCV`
-
-### Currently
-
-- Building production services in Go and shipping a React Native app to the App Store and Google Play
-- Getting deeper into distributed systems and infrastructure as code

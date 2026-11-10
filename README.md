@@ -49,4 +49,6 @@
 
 ---
 
-📍 Ankara, Türkiye
+### Contact
+
+📫 [umut781@icloud.com](mailto:umut781@icloud.com) · 📍 Ankara, Türkiye

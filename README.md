@@ -22,7 +22,6 @@
 
 - Containerized services with **Docker** and Docker Compose, infrastructure with **Terraform**.
 - **GitHub Actions** pipelines for tests, builds, deployments and secret scanning (gitleaks).
-- **Agentic coding** with **Claude Code**: I build **MCP servers**, custom agents and skills that automate everyday development work (scaffolding endpoints, migrations, deploy checks).
 
 ---
 
